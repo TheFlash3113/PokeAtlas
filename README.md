@@ -33,9 +33,9 @@ Other revisions may work, but are not officially tested.
 ## Screenshots
 
 <p align="center">
-  <img src="Assets/Screenshots/main-map.png" width="58.568%">
-  <img src="Assets/Screenshots/battle-panel.png" width="20.716%">
-  <img src="Assets/Screenshots/party-panel_session-panel.png" width="20.716%">
+  <img src="Assets/Screenshots/main-map.png" width="58%">
+  <img src="Assets/Screenshots/battle-panel.png" width="20%">
+  <img src="Assets/Screenshots/party-panel_session-panel.png" width="20%">
 </p>
 
 ## Notes
