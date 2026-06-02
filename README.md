@@ -6,7 +6,7 @@ PokéAtlas is a live companion app for Pokémon Ruby, Sapphire, and Emerald on m
 
 - Live player position on a full Hoenn atlas
 - Encounter tables with rates, levels, and sprites
-- Party viewer with EVs, IVs, friendship, eggs, held items, and shinies
+- Party viewer with EVs, IVs, friendship, eggs, and shinies
 - Battle panel with enemy IVs, held items, shiny detection, HP, status, and catch chances
 - RNG seed / advance tracking
 - Session stats: time, steps, encounters, shinies, encounter rate, IV records
