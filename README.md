@@ -42,6 +42,14 @@ Other revisions may work, but are not officially tested.
 
 PokéAtlas reads emulator memory only. It does not modify your ROM or save file.
 
+## Support
+
+PokéAtlas is completely free to use.
+
+If you'd like to support future development:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/flash3113)
+
 ## Credits
 
 - Pokémon sprites from msikma/pokesprite
